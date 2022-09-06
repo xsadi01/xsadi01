@@ -32,7 +32,7 @@
 <p><a href="https://www.buymeacoffee.com/xsadi01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xsadi01" /></a><a href="https://ko-fi.com/xsadi01"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xsadi01" /></a></p><br><br>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xsadi01&show_icons=true&locale=en&layout=compact" alt="xsadi01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xsadi01&show_icons=true&locale=en" alt="xsadi01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xsadi01&" alt="xsadi01" /></p>
