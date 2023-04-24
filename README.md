@@ -1,6 +1,6 @@
 [![MasterHead](https://media.discordapp.net/attachments/620913735304871956/1076905902797488258/shadi_2.png)](https://steamcommunity.com/id/SSS_95)
 <h1 align="center">Hi 👋, I'm Shatabdi Hasan Sadi</h1>
-<h3 align="center">A Non-Passionate front end Developer from Bangladesh</h3>
+<h3 align="center">A Non-Passionate Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/740814195548749866/1016377920190681128/sss-code.gif">
 
 
