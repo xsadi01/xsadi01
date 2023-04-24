@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **xsadi001@yahoo.com**
 
-- ⚡ Fun fact **Am I Funny ?**
+- ⚡ Web: **https://shatabdi_hasan_sadi.bio.link/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
